@@ -3,7 +3,7 @@ public class String_permutation {
   
     public static void main(String[] args) {
         String s="abcd";
-        System.out.println("permutation of "+s+"is");
+        System.out.println("permutation of "+s+" is: ");
         generate(s, "");
     }
 
@@ -21,3 +21,4 @@ public class String_permutation {
         }
     }
 }
+//question 784,5

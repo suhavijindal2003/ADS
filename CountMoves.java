@@ -9,5 +9,5 @@ public class CountMoves {
         }
         return 2*count(n-1)+1;
     }
-  
+
 }

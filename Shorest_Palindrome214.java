@@ -1,6 +1,6 @@
 public  class Shorest_Palindrome214{
     public static void main(String[] args) {
-        System.out.println(shortestPalindrome("aaaceabba"));
+        System.out.println(shortestPalindrome("aacecaaa"));
     }
     public static String shortestPalindrome(String s) {
         int i=0;
