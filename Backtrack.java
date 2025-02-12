@@ -7,9 +7,6 @@ public class Backtrack {
         System.out.println(subset(nums));
          //backtrack is a technique used to explore all possible solution by trying out different choices and undoing when chice leads to deas end.
 
-
-        //you have to choose the possiboilities
-
     }
 
     public static void gs(int[] nums, int in, List<Integer> curr, List<List<Integer>> res) {
